@@ -1,0 +1,3 @@
+[scrapy]
+settings = price_aggregator.settings
+

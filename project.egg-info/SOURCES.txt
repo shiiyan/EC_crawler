@@ -1,0 +1,14 @@
+setup.py
+price_aggregator/__init__.py
+price_aggregator/items.py
+price_aggregator/middlewares.py
+price_aggregator/pipelines.py
+price_aggregator/settings.py
+price_aggregator/spiders/__init__.py
+price_aggregator/spiders/amazon.py
+price_aggregator/spiders/base_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
