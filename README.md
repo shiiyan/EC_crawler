@@ -1,4 +1,4 @@
-# EC_crawler (English ver.)
+# EC CRAWLER (English ver.)
 
 # ECサイトクローラー（日本語版）
 
