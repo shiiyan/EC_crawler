@@ -1,4 +1,11 @@
+[English Ver.](#english)
+[Japanese Ver.](#japanese)
+
+<a name="english"/> 
+
 # EC_crawler (English ver.)
+
+<a name="japanese"/>
 
 # ECサイトクローラー（日本語版）
 
