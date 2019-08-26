@@ -32,4 +32,4 @@
 
 - Scrapyフレームワークでのローカル実装
 - AWSでフルクラウドアーキテクチャ、さらにサーバーレスでリアルタイムコンピューティングのAWS Lambdaを採用したFaaS（Function as a Service）方式
-
+![スクリーンショット 2019-08-12 20 45 13](https://user-images.githubusercontent.com/36617009/62862882-2bb0a980-bd42-11e9-9569-e1b524794bf5.png)
